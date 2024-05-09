@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am an AI enthusiast<br>- I am currently working at [alliance4ai](https://www.alliance4ai.org)<br>- I have skills in Software Engineering and Data Science<br>- Fun fact > I enjoy making barbeque (Nyama Choma)
+- I am an AI enthusiast<br>- I have skills in Software Engineering and Data Science<br>- Fun fact > I enjoy making barbeque (Nyama Choma)
 
 
 ## 🌐 Socials:
